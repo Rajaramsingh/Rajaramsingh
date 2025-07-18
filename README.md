@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajaramsingh" alt="rajaramsingh" /></a> </p>
 
-- 👯 I’m looking to collaborate on **MERN stack project**
+- 👯 I’m looking to collaborate on Full Stck Project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
